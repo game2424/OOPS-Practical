@@ -28,7 +28,7 @@ void display(){
 
 int main()
 {
-    student s1(101,"Samarth Ingale",18,90);
+    student s1(101,"Om Tilekar",18,90);
     s1.display();
     
     return 0;
